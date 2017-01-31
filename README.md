@@ -9,7 +9,7 @@ it using javascript.
 Clone the repo, cd in and run boot dev.
 
 ``` shell
-git clone git@github.com:lightscaletech/hoplon-widget-demo.git
+git clone https://github.com/lightscaletech/hoplon-widget-demo.git
 cd hoplon-widget-demo
 boot dev
 ```
